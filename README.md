@@ -4,14 +4,14 @@ A flutter chat application.
 
 ## How to use
 
-- Run the chat app in Android Studio and deploy to emulator or real device.
-- Enter username and chat room and click Login button.
+- Run the chat app in Android Studio and deploy to emulator or a real device.
+- Enter username and chatroom and click login button.
 
 ## Features
 
-- The user can connect to chat room.
-- The user can send messages to other members in the chat room.
-- The user receives notifications when other members join or leave.
+- The user can create or join to a desired chatroom.
+- The user can send messages to other users in the chatroom.
+- The user receives notification when a user joins or leaves the chatroom.
 
 
 # Server side with Node.js
