@@ -14,9 +14,9 @@ A flutter chat application.
 - The user receives notification when a user joins or leaves the chatroom.
 
 
-# Server side with Node.js
+# Server
 
-A Node.js app is built using Socket.io and Express framework. The server app is deployed to Heroku cloud. 
+A Node.js app built using Socket.io and Express framework. The server app is deployed to Heroku cloud. 
 
 The Heroku app name is fierce-savannah-85196 and the git URL: https://git.heroku.com/fierce-savannah-85196.git
 
